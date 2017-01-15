@@ -1,0 +1,42 @@
+D:\暫存檔\project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\暫存檔\project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\暫存檔\project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\暫存檔\project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\暫存檔\project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\暫存檔\project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\暫存檔\project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\暫存檔\project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\暫存檔\project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\NICOLE\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\NICOLE\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\NICOLE\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\NICOLE\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\NICOLE\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\NICOLE\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\NICOLE\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\NICOLE\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\NICOLE\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\MIN-HAN\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\MIN-HAN\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\MIN-HAN\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\MIN-HAN\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\user\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\MIN-HAN\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\影像壓縮程式.exe.config
+C:\Users\MIN-HAN\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\影像壓縮程式.exe
+C:\Users\MIN-HAN\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\影像壓縮程式.pdb
+C:\Users\MIN-HAN\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\影像壓縮程式.exe
+C:\Users\MIN-HAN\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\影像壓縮程式.pdb
+C:\Users\user\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\影像壓縮程式.exe.config
+C:\Users\user\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\影像壓縮程式.exe
+C:\Users\user\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\影像壓縮程式.pdb
+C:\Users\NICOLE\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\影像壓縮程式.exe.config
+C:\Users\NICOLE\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\影像壓縮程式.exe
+C:\Users\NICOLE\Dropbox\資料壓縮_final project\doGray\DoGray\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\影像壓縮程式.pdb
