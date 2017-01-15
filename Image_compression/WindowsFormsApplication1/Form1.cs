@@ -34,7 +34,7 @@ namespace WindowsApplication1
             }
 
         }
-        // 壓縮 按鈕事件處理函式 
+        // 壓縮 按鈕事件處理函式
         private void button2_Click(object sender, EventArgs e)
         {
             Compression Compression = new Compression(openFileDialog1.FileName, out RGBdata, out COMdata);// 建立秀圖物件
