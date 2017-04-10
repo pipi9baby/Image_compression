@@ -61,6 +61,7 @@ namespace WindowsApplication1
             result = temp / count;
 
             //計算壓縮率
+            //計算壓縮率
             String x = Filename;            
             Double s1 = new FileInfo(x).Length;            
             Double s2 = new FileInfo(new_filename).Length;
