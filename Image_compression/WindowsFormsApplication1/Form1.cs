@@ -28,7 +28,7 @@ namespace WindowsApplication1
         {
             if (openFileDialog1.ShowDialog() != DialogResult.Cancel)
             {
-                Filename = openFileDialog1.FileName;                
+                Filename = openFileDialog1.FileName; //檔案名稱               
                 ImageForm MyImage = new ImageForm(openFileDialog1.FileName); // 建立秀圖物件
                 MyImage.Show();// 顯示秀圖照片 
             }
