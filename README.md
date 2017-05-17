@@ -1,6 +1,6 @@
 # Image_compression
 Image_compression
-資料壓縮的課堂作業
+資料壓縮的課堂作業/n
 
 實作部分JPEG影像壓縮
 有實作到的東西
